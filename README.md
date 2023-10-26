@@ -76,8 +76,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/manviii27/manviii27/output/snake.svg" alt="Snake animation" />
 
 ###
